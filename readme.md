@@ -2,6 +2,10 @@
 
 Hello world!
 
+## Dependencies
+
+* Java 11
+
 ## Usage
 
 * Download the `HelloWorld.jar` file from the [latest release](https://github.com/boafur/HelloWorld-Java/releases/latest)
