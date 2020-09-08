@@ -4,7 +4,7 @@ Hello world!
 
 ## Dependencies
 
-* Java 11
+* Java 14
 
 ## Usage
 
