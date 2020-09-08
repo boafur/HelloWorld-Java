@@ -2,6 +2,8 @@
 
 Hello world!
 
+![Example](https://github.com/boafur/HelloWorld-Java/blob/master/HelloWorld.gif)
+
 ## Dependencies
 
 * Java 14
